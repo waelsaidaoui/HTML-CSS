@@ -4,4 +4,6 @@ this verion of cv is with grid template.
 https://waelsaidaoui.github.io/HTML-CSS/week01/week1-without-grid/
 this version is without grid template.
 
-home work week02
+week02
+https://waelsaidaoui.github.io/HTML-CSS/week02/
+homework week 02
