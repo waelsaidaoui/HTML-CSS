@@ -10,5 +10,5 @@ https://waelsaidaoui.github.io/HTML-CSS/week02/
 homework week 02
 
 week03
-https://waelsaidaoui.github.io/HTML-CSS/week03/
+https://waelsaidaoui.github.io/HTML-CSS/week3/
 home work week 03
